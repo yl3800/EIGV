@@ -31,7 +31,6 @@ Simply run `train.py` to reproduce the results in the paper. We have saved our c
 ```
 @misc{https://doi.org/10.48550/arxiv.2207.12783,
   author = {Li, Yicong and Wang, Xiang and Xiao, Junbin and Chua, Tat-Seng},
-  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
   title = {Equivariant and Invariant Grounding for Video Question Answering},
   publisher = {arXiv},
   year = {2022},
