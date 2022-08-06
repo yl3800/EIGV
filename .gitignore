@@ -1,6 +1,5 @@
 *.pth
 *.h5
-*.jpg
 *.zip
 *.pkl
 *.ckpt
