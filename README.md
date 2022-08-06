@@ -25,7 +25,7 @@ We use NExT-QA as an example to help get farmiliar with the code. Please downloa
 After downloading the data, please modify your data path and feature path accordingly.
 
 ## Run EIGV with different baseline
-Simply run `train.py` to reproduce the results in the paper. We have saved our checkpoint [here](https://drive.google.com/file/d/1JNcD_nFHzYdjtwy8bMH8vshXyAzrNkZ0/view?usp=sharing) (acc 43.72% on NExT-QA) for your references.
+Simply run `train.py` to reproduce the results in the paper. We have saved our checkpoint [here](https://drive.google.com/file/d/1JNcD_nFHzYdjtwy8bMH8vshXyAzrNkZ0/view?usp=sharing) (acc 53.72% on NExT-QA) for your references.
 
 ## Reference 
 ```
