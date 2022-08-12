@@ -1,5 +1,5 @@
 <h2 align="center">
-Invariant Grounding for Video Question Answering 🔥
+Equivariant and Invariant Grounding for Video Question Answering 🔥
 </h2>
 
 <div align="center">
